@@ -1,4 +1,4 @@
-# DocuBot-Mediacal-Chatbot-
+# DocuBot-Medical-Chatbot-
 Hello everyone 
 
 DocuBot is an advanced medical chatbot that uses cutting-edge Machine Learning (ML) and Neural Network (NN) technologies 
